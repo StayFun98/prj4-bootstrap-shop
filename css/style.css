@@ -1,0 +1,123 @@
+@charset "utf-8";
+
+.logo {
+	width: 120px;
+	margin-bottom: 10px;
+}
+
+.navback {
+	background:#765A56;
+}
+
+.navbar-nav {
+	margin-left: 5%;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float: none;
+}
+.navbar-brand > img {
+	height: auto;
+}
+.nav-link {
+	color:#FCF7F3;
+	font-family: 'Roboto Slab', serif;
+	font-size: 150%;
+	font-weight: 600;
+	margin-top: 14%;
+	margin-left: 50%;
+}
+
+.nav-link:hover{
+ 	color: #FEE9BC
+}
+
+.background {
+	background: #EBE7E4;
+}
+
+.main-content {
+	padding-left: 8%;
+	padding-right:8%;
+	margin-top:2%;
+	margin-bottom: 4%; 
+}
+
+.titles {
+	color:#2b2323;
+	font-family: 'Roboto Slab', serif;
+	font-size: 200%;
+	font-weight: 1000;
+	margin-top: 4%;
+	margin-bottom: 3%;
+}
+
+.sub-titles {
+	color: #2b2323;
+	font-family: 'Roboto Slab', serif;
+	font-size: 150%;
+}
+
+.introduction {
+	font-family: 'Roboto Slab', serif;
+	font-size: 110%;
+	font-weight: 400;
+	padding-left: 15%;
+	padding-right: 15%;
+	color: #2b2323;
+	text-align: center;
+}
+.btn-txt {
+	text-align: center;
+}
+.btn:hover {
+    color: #2b2323;
+}
+
+.btn-order {
+	display: block;
+	padding: 10px;
+	padding-top: 15px;
+	background-color: #DB9D4A;
+	font-family: 'Roboto Slab', serif;
+	font-size: 100%;
+	font-weight: 700;
+	color:#FFFFFF;
+	width: 20%;
+	margin-left: 40%;
+	margin-right: auto;
+	margin-top: 3%;
+  	margin-bottom: 5%;
+  	text-align: center;
+}
+
+.center {
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 80%;
+	border-radius: 20px;
+}
+.img-space{
+	margin-bottom: 10%;
+}
+.menu {
+	width: 100%;
+}
+
+.card-columns {
+    column-count: 3;
+}
+
+.jumbotron {
+	
+}
+
+.bottom-footer {
+	font-family: 'Roboto Slab', serif;
+	font-size: 80%;
+	color:#FFFFFF;
+	background:#765A56;
+	padding: 4%;
+}
