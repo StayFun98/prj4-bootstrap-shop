@@ -1,2 +1,2 @@
 # prj4-bootstrap-shop
-Assignment 6
+Final check (individual Bootstrap website)
